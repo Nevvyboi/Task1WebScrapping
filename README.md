@@ -9,5 +9,3 @@
 ⚙️ To use this script, you'll need Python 3.x and the requests and beautifulsoup4 libraries installed. Simply run the Python file, and let the scraper do its magic! 🧙‍♂️ Keep in mind that any changes to the website's HTML structure may require modifications to the code. 🛠️
 
 Get ready to explore new job opportunities with this handy web scraper! 💼🚀
-
-Copy
